@@ -1,8 +1,12 @@
 # iOS-MojePrzepisy
-MojePrzepisy is a recipe app made using Core Data to store recipes to entity. It also fetches all recipes on the home screen.
 ![alt tag](http://i.imgur.com/y7DBAX0.png)
-![alt tag](http://i.imgur.com/2qoteBA.png)
-![alt tag](http://i.imgur.com/S5Z9aPt.png)
+
+MojePrzepisy is a recipe app made using Core Data to store recipes to entity. It also fetches all recipes on the home screen.
+
+<p align="center">
+  <img src="http://i.imgur.com/2qoteBA.png" width="350"/>
+  <img src="http://i.imgur.com/S5Z9aPt.png" width="350"/>
+</p>
 
 MojePrzepisy notes:
 
